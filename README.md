@@ -20,6 +20,8 @@ Because many of the source models were not originally designed for PBR material 
 ### [1) ZENODO](https://zenodo.org/records/20723440)   
 ### [2) Hugging Face](https://huggingface.co/datasets/FlyingFrog/EmergenTexture)
 
+![](/samples2.png)
+
 ## Dataset Structure
 
 For each model, we provide **20 generated PBR materials**:
@@ -65,6 +67,7 @@ SEAMLESS
 appears in the corresponding folder. Approximately **95%** of the materials in the dataset are seamless.
 
 The PBR materials are organized according to the type of model that generated them, such as: Biology, Physics, Chemistry, Art,Engineering,Creative,General
+![](/samples3.png)
 
 ## Dataset Generation Pipeline
 
@@ -82,3 +85,6 @@ The code for the agentic dataset-generation pipeline is provided in:
 ```text
 Dataset_Generation_Code_Agentic_pipeline.zip
 ```
+
+![](/samples4.png)
+
