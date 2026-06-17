@@ -80,11 +80,7 @@ The proposed methods were based on either:
 
 In all cases, each model had to generate PBR textures by mapping its outputs into PBR texture channels. This mapping is inherently somewhat arbitrary, since most of the underlying scientific and artistic models were not designed natively for PBR material generation.
 
-The code for the agentic dataset-generation pipeline is provided in:
-
-```text
-Dataset_Generation_Code_Agentic_pipeline.zip
-```
+The code for the agentic dataset-generation pipeline is provided in [this repository](https://github.com/sagieppel/Converting-Scientific-Models-and-Simulattions-To-PBR-materials-Generators-Agentic-Pipeline)
 
 ![](/samples1.jpg)
 
