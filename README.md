@@ -13,8 +13,12 @@ The dataset was created by collecting and adapting models and simulations from a
 Base color, Height, Roughness, Metallic, Normals, Transperancy..
 
 Because many of the source models were not originally designed for PBR material generation, the mapping from model outputs to PBR channels is often creative or interpretive.
+## Download Samples
+[Sample 1](https://zenodo.org/records/20723440/files/samples1_512x512.zip?download=1) [,Sample 2](https://zenodo.org/records/20723440/files/samples2_512x512.zip?download=1) [,Sample 3](https://zenodo.org/records/20723440/files/samples3.jpg?download=1) 
 
-# Download Sources: [ZENODO](https://zenodo.org/records/20723440)   [Hugging Face](https://huggingface.co/datasets/FlyingFrog/EmergenTexture)
+## Download Full Dataset From: 
+### [1) ZENODO](https://zenodo.org/records/20723440)   
+### [2) Hugging Face](https://huggingface.co/datasets/FlyingFrog/EmergenTexture)
 
 ## Dataset Structure
 
