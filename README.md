@@ -86,5 +86,5 @@ The code for the agentic dataset-generation pipeline is provided in:
 Dataset_Generation_Code_Agentic_pipeline.zip
 ```
 
-![](/samples4.jpg)
+![](/samples1.jpg)
 
